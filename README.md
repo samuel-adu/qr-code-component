@@ -9,18 +9,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 
 ## Overview
 
-### Preview
+### Screenshot
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-built-using-html-and-css-only-N52KipX3gu)
+- Live Site URL: [Add live site URL here](https://qr-code-component-six-lake.vercel.app/)
 
 ## My process
 
