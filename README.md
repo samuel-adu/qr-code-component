@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-built-using-html-and-css-only-N52KipX3gu)
-- Live Site URL: [Add live site URL here](https://qr-code-component-six-lake.vercel.app)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-built-using-html-and-css-only-N52KipX3gu](https://www.frontendmentor.io/solutions/qr-code-component-built-using-html-and-css-only-N52KipX3gu)
+- Live Site URL: [https://qr-code-component-six-lake.vercel.app](https://qr-code-component-six-lake.vercel.app)
 
 ## My process
 
